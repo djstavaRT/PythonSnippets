@@ -1,4 +1,4 @@
-PythonSnippets
-==============
+AutoTestForIploader
+=========
 
-python snippets
+This program is aim to test embedded devices like Set Top Box automatically.
